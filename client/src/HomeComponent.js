@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { PostsList } from './PostsList';
-// import CommentsSection from './cc';
+// import CommentsSection from './cc'; 
 import Logic from './Logic';
 
 export const Child = ({ test, onInc }) => {
